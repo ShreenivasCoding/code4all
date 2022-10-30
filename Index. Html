@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head><title>hi github</title></head>
+<body>
+<h1 style="text-align:center">Registration</h1>
+ 
+  <form>
+    
+    Name:<input type="text" Size="10" maxlength="30"></br>
+
+    Email:<input type="password" Size="10" maxlength="30"></br>
+  
+    </form>
+
+    </body>
+    </html>
